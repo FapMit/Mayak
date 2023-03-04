@@ -42,6 +42,11 @@ html, body {
     left: 15%;
     transition: all .5s;
     padding: 2px;
+    opacity: 0;
+}
+.burger.element-show {
+    opacity: 1;
+    transition: all 1.5s;
 }
 .burger svg {    
     width: 25px;
@@ -104,6 +109,11 @@ html, body {
     padding-top: 36px;
     position: relative;
     z-index: 1;
+    opacity: 0;
+}
+.header__top-inner.element-show {
+    opacity: 1;
+    transition: all 1.5s;
 }
 .header__nav-list {
     display: flex;
@@ -122,6 +132,11 @@ html, body {
     position: absolute;
     top: 0;
     width: 100%;
+    opacity: 0;
+}
+.header__lng.element-show {
+    opacity: 1;
+    transition: all 1.5s;
 }
 .header__lng-inner {
     position: relative;
@@ -157,10 +172,10 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    transform: translateY(50%);
+    transform: translateX(50%);
 }
 .header__body-inner.element-show {
-    transform: translateY(0%);
+    transform: translateX(0%);
     transition: all 1.5s;
 }
 .header__body-logo {
@@ -556,6 +571,7 @@ html, body {
     line-height: 100%;
     color: #6B61A9;
     background-color: transparent;
+    margin-left: 5px;
 }
 
 @media screen and (max-width: 1024px) {

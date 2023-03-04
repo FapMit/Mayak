@@ -179,8 +179,72 @@ const langArr = {
     "rus" : "Проекты",
     "eng" : "Our clients"
   },
+  "projects__quote" : {
+    "rus": "Обладатели первых звезд Гида MICHELIN Москва 2022 наши проекты:",
+    "eng": "The owners of the first MICHELIN Guide stars Moscow 2022 our projects:"
+  },
+  "projects__desc" : {
+    "rus": "Рестораны Assunta Madre и «Аист» рекомендован Гидом MICHELIN Москва в издании 2022 года",
+    "eng": "Assunta Madre and Stork restaurants recommended by MICHELIN Guide Moscow in the 2022 edition"
+  },
   "team__title": {
     "rus" : "Команда <br> маяк - ",
     "eng" : "Our <br> Team - "
+  },
+  "team__slide1-subtitle1" : {
+    "rus" : "> 22 лет",
+    "eng" : "more than 22 years"
+  },
+  "team__slide1-text1" : {
+    "rus" : "Общий опыт работы в сфере HoReCa",
+    "eng" : "General experience in HoReCa"
+  },
+  "team__slide1-subtitle2" : {
+    "rus" : "Реализовали > 100",
+    "eng" : "Implemented > 100"
+  },
+  "team__slide1-text2" : {
+    "rus" : "Ресторанных проектов, среди которых: <br> <strong>Аркадия Новикова:</strong> SAVVA, ARTEST, Валенок, Сыроварня, Магадан. <br><strong>Александра Раппопорта:</strong> Воронеж, Китайская грамота, Латинский Квартал, Мандарин Лапша и Утки, Cook’kareku, Пикассо, Black Thai, Блок, Китайская грамота и др.</p>",
+    "eng" : "Restaurant projects, including: <br> <strong>Arkady Novikova:</strong> SAVVA, ARTEST, Valenok, Cheese Factory, Magadan. <br><strong>Alexandra Rappoport:</strong> Voronezh, Chinese Literacy, Latin Quarter, Mandarin Noodles and Ducks, Cook’kareku, Picasso, Black Thai, Block, Chinese Literacy, etc.</p>"
+  },
+  "team__slide2-subtitle1" : {
+    "rus" : "Известные проекты:",
+    "eng" : "Notable projects:"
+  },
+  "team__slide2-text1" : {
+    "rus" : "Subzero, Bjorn, Seven, Community, Lola, винно-торговая компания (Askaneli Brothers) и др.",
+    "eng" : "Subzero, Bjorn, Seven, Community, Lola, Wine trading company (Askaneli Brothers), etc."
+  },
+  "team__slide2-subtitle2" : {
+    "rus" : "Гастромаркеты:",
+    "eng" : "Gastromarkets:"
+  },
+  "team__slide2-text2" : {
+    "rus" : "Фермерский рынок на ВДНХ, Фудхолл Дружба",
+    "eng" : "Farmer's Market at VDNH, Druzhba Food Hall"
+  },
+  "team__slide2-subtitle3" : {
+    "rus" : "Постоянно в движении:",
+    "eng" : "Constantly on the move:"
+  },
+  "team__slide2-text3" : {
+    "rus" : "Выступаем в качестве спикеров, организовываем выставки, фестивали, а в частности:",
+    "eng" : "We act as speakers, organize exhibitions, festivals, and in particular:"
+  },
+  "team__slide3-subtitle1" : {
+    "rus" : "Кристина Жегунова",
+    "eng" : "Kristina Zhegunova"
+  },
+  "team__slide3-text1" : {
+    "rus" : "Cпикер на профильных конференциях, постоянный преподаватель Novikov Business school на тему маркетинг и PR для рестораторов. <br><br> Разработала более 30 уникальных программ как бизнес-коуч по темам лидерство, конфликты, командообразование и др. Создание и ведение команд от 30 человек.",
+    "eng" : "Speaker at specialized conferences, permanent lecturer at Novikov Business School on marketing and PR for restaurateurs. <br><br> She has developed more than 30 unique programs as a business coach on the topics of leadership, conflicts, team building, etc. Creation and management of teams of 30 people."
+  },
+  "team__slide4-subtitle1" : {
+    "rus" : "Анна Книппер",
+    "eng" : "Anna Knipper"
+  },
+  "team__slide4-text1" : {
+    "rus" : "Реализованы выставки и ресторанные фестивали, среди которых Taste of Moscow, Sirha, Bocuse d’Or Russia, Coupe du Monde de la Pâtisserie, Gambero Rosso, Russian Bar Fair. <br><br> Наработана большая база партнеров и подрядчиков.",
+    "eng" : "Exhibitions and restaurant festivals have been implemented, including Taste of Moscow, Sirha, Bocuse d'Or Russia, Coupe du Monde de la Pâtisserie, Gambero Rosso, Russian Bar Fair. <br><br> A large database of partners and contractors has been developed."
   }
 }

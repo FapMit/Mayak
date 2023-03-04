@@ -9,7 +9,7 @@ $(function () {
     }
     let options = { threshold: [0] };
     let observer = new IntersectionObserver(onEntry, options);
-    let elements = document.querySelectorAll('.header__body-inner, .about__left, .about__right, .possibility, .projects__slider-top, .projects__slider, .team__left, .team__right, .header__body');
+    let elements = document.querySelectorAll('.burger, .header__top-inner, .header__lng, .header__body-inner, .about__left, .about__right, .possibility, .projects__slider-top, .projects__slider, .team__left, .team__right, .header__body');
     for (let elm of elements) {
         observer.observe(elm);
     }
